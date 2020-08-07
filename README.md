@@ -22,3 +22,7 @@
 ---npm instal @types/cors 
 --9) npm install axios
 
+
+#<h3>Mobile</h3>
+-- 1) npm install expo-cli --global
+-----Set-ExecutionPolicy RemoteSigned
