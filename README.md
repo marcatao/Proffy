@@ -1,6 +1,20 @@
 ## Semana NLW - Rocketseat
 
+Utilizando Node no backend, React no FrontEnd e ReactNative no Mobile, desenvolvemos uma aplicação completa  para cadastro e busca de professores. 
 
+
+#Layout Web
+https://www.figma.com/file/tp2aNvEb9hJA5QKUNrqJO8/Proffy-Web-Copy?node-id=0%3A1
+
+#Layout Mobile
+https://www.figma.com/file/tJbtkQwzIKHM2hmjwPKrO5/Proffy-Mobile-Copy?node-id=0%3A1
+
+#ToDo:
+https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
+
+
+
+#Scripts
 #<h3>Front-end</h3>
 --1) npx create-react-app web --template typescript </br>
 --2) Limpar as pastas
@@ -25,4 +39,12 @@
 
 #<h3>Mobile</h3>
 -- 1) npm install expo-cli --global
------Set-ExecutionPolicy RemoteSigned
+----- Set-ExecutionPolicy RemoteSigned
+-- 2) expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+-- 3) npm install @react-navigation/native
+-- 4) expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+-- 5) npm install @react-navigation/stack
+-- 6) npm install @react-navigation/bottom-tabs
+-- 7) npm install axios
+-- 8) expo install @react-native-community/async-storage
+
